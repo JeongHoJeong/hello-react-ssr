@@ -1,13 +1,12 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
+import React from 'react'
 
 class Foo extends React.Component {
-  render() {
+  render () {
     return (
       <div>
         Hello Server-Side Rendering!
       </div>
-    );
+    )
   }
 }
 
